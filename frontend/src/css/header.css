@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+
+.purple-header {
+    background: linear-gradient(135deg, #6a0dad, #b57edc);
+    color: white;
+    text-align: center;
+    padding: 20px 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin: 10px auto;
+    max-width: 800px;
+    font-family: 'Lora', sans-serif;
+}
+
+.header-title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.header-subtitle {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #f3e6ff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
